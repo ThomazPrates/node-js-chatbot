@@ -10,10 +10,4 @@ Want to follow along with the code, this check out the github repository:
 
 Want to learn more about Watson Assistant: https://www.ibm.com/cloud/watson-assistant/
 
-Oh, and don't forget to connect with me!
-LinkedIn: https://www.linkedin.com/in/nicholasr...
-Facebook: https://www.facebook.com/nickrenotte/
-GitHub: https://github.com/nicknochnack
 
-Happy coding!
-Nick
